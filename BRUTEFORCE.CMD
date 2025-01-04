@@ -1,5 +1,5 @@
 @echo off
-:: Batch Wi-Fi Brute Forcer - Developed By ektoras
+:: Batch Wi-Fi Brute Forcer - Developed By HACKER78010
 :: Please refer to https://github.com/hacker78010 for more projects
 
 :: This program is created to be a proof of concept that it is possible
