@@ -1,6 +1,6 @@
 @echo off
-:: Batch Wi-Fi Brute Forcer - Developed By ektoras
-:: Please refer to https://github.com/hacker78010 for more projects
+:: Batch Wi-Fi Brute Forcer - Developed By HACKER78010
+  https://github.com/hacker78010 for more projects
 
 :: This program is created to be a proof of concept that it is possible
 :: to write a working Wi-Fi attack tool with Batchfiles since there 
